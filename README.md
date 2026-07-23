@@ -37,20 +37,26 @@ O Conecta Bem é um projeto acadêmico desenvolvido com o objetivo de apoiar ini
 
 ### Cadastro, Edição e Exclusão de Eventos
 
-![Cadastro](imagens/python.png)
+<p align="center">
+  <img src="imagens/python.png" width="700">
+</p>
 
 ### Tela Inicial e busca
 
-![Doações](imagens/inicial.png)
-![Doações](imagens/aviso.png)
+<p align="center">
+  <img src="imagens/inicial.png" width="600">
+</p>
+<p align="center">
+  <img src="imagens/aviso.png" width="700">
+</p>
 
-### Participação
 
-![Participação](imagens/participar.png)
+### Participação e Doações
 
-### Doações
-
-![Doações](imagens/doar.png)
+<p align="center">
+    <img src="imagens/participar.png" width="450">
+    <img src="imagens/doar.png" width="500">
+</p>
 
 
 ## 🎯 Aprendizados
@@ -71,4 +77,4 @@ Durante o desenvolvimento deste projeto foram aplicados conhecimentos como:
 
 Assista ao vídeo completo do projeto:
 
-[![Demonstração](imagens/logo.png)](https://www.youtube.com/watch?v=XC3ZgDKprqg&list=PLNmfZL7dZh_0&index=1&t=124s)
+▶️ https://www.youtube.com/watch?v=XC3ZgDKprqg&list=PLNmfZL7dZh_0&index=1&t=124s
