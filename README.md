@@ -2,7 +2,15 @@
 
 ## Sobre o projeto
 
-O Conecta Bem é um projeto acadêmico desenvolvido com o objetivo de apoiar iniciativas de combate à insegurança alimentar. A proposta da plataforma é conectar organizadores, voluntários e doadores por meio de eventos solidários. Neste repositório estão implementadas as funcionalidades desenvolvidas em equipe durante a disciplina de Laboratório de Banco de Dados, contemplando o gerenciamento de eventos, participação de voluntários e registro de doações, integradas a um banco de dados MySQL. A visão completa do projeto inclui outras funcionalidades que poderão ser desenvolvidas futuramente, mas que não fazem parte do escopo desta implementação.
+> ⚠️ Este repositório reflete as funcionalidades que desenvolvi individualmente e em equipe durante a disciplina de **Laboratório de Banco de Dados**.
+
+O **Conecta Bem** é um projeto acadêmico desenvolvido com o objetivo de apoiar iniciativas de combate à insegurança alimentar. A proposta da plataforma é conectar organizadores, voluntários e doadores por meio de eventos solidários. 
+Nesta implementação, desenvolvemos um programa em **Python** e uma interface em **Java Swing** que foram integrados a um banco de dados **MySQL** para:
+- Cadastro e gerenciamento de eventos
+- Participação de voluntários 
+- Registro de doações
+
+A visão completa do projeto inclui outras funcionalidades que poderão ser desenvolvidas futuramente, mas que não fazem parte do escopo desta implementação.
 
 ## ✨ Funcionalidades
 
@@ -75,6 +83,9 @@ Durante o desenvolvimento deste projeto foram aplicados conhecimentos como:
 
 ## 🎥 Demonstração
 
-Assista ao vídeo completo do projeto:
+Assista ao vídeo completo do projeto clicando na imagem abaixo (você será redirecionado para o YouTube):
 
-▶️ https://www.youtube.com/watch?v=XC3ZgDKprqg&list=PLNmfZL7dZh_0&index=1&t=124s
+<a href="https://www.youtube.com/watch?v=XC3ZgDKprqg&list=PLNmfZL7dZh_0&index=1&t=124s">
+  <img src="imagens/logo.png" alt="Demonstração" width="150">
+</a>
+
